@@ -1,0 +1,16 @@
+{
+  "name": "urlshortener-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.8.1",
+    "valid-url": "^1.0.9"
+  }
+}
